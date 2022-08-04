@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aldoMatus7
 - 👀 I’m interested in Blockchain and web3
 - 🌱 I’m currently learning Solidity and Software Developmet
-- 💞️ I’m looking to collaborate on companies who works with blockchain
+- 💞️ I’m looking to collaborate with proyects who works with blockchain
 - 📫 How to reach me aldo.matus.17@gmail.com
 
 <!---
