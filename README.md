@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aldomatus7 a student
+- 👋 Hi, I’m Aldo Matus and I aspiring to Blockchain Developer
 - 👀 I’m interested in Blockchain and web3
-- 🌱 I’m currently learning Solidity and Software Developmet
+- 🌱 I’m currently working on my Web3 portfolio
 - 💞️ I’m looking to collaborate with proyects who works with blockchain and web3
 - 📫 How to reach me aldomatus.dev@gmail.com
 
