@@ -7,8 +7,8 @@ I am a Junior Blockchain Developer with a deep understanding of blockchain techn
 ### Connect with me : )
 
 <p align="left">
-<a href="https://linkedin.com/in/aldo c. matus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo c. matus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the estonian blockchain channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the estonian blockchain channel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aldo-matus117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo c. matus" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@E-ChainChannel/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the estonian blockchain channel" height="30" width="40" /></a>
 </p>
 
 ---
