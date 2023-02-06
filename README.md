@@ -2,7 +2,7 @@
 
 **`Junior Blockchain Developer (Gamer/Content Creator)`** 
 
-I am a Junior Blockchain Developer with a deep understanding of blockchain technology and a strong passion for decentralized systems and smart contracts. My discipline and problem-solving skills, combined with my ability to effectively manage my time, make me a valuable asset to any team. 
+I am a Junior Blockchain Developer with a deep understanding of blockchain technology and a strong passion for decentralized systems and smart contracts. My discipline and problem-solving skills, combined with my ability to effectively manage my time, make me a valuable asset to any team. When I'm not coding and working on blockchain projects, you can find me playing Halo and honing my gaming skills and sharing my passion for blockchain technology through my YouTube channel, where I create content as a Spartan IV.
 
 ### Connect with me : )
 
