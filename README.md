@@ -2,13 +2,12 @@
 
 **`Junior Blockchain Developer (Gamer/Content Creator)`** 
 
-I am a Junior Blockchain Developer with a deep understanding of blockchain technology and a strong passion for decentralized systems and focused in smart contracts. My discipline and problem-solving skills, combined with my ability to effectively manage my time, make me a valuable asset to any team. When I'm not coding and working on blockchain projects, you can find me playing Halo and honing my gaming skills and sharing my passion for blockchain technology through my YouTube channel, where I create content as a Spartan IV.
-
+I am a Junior Blockchain Developer with a deep understanding of blockchain technology and a strong passion for decentralized systems and focused in smart contracts. 
+Soft Skills: Discipline, responsability, problem-solving skills, time management and the ability to always find the solution 
 ### Connect with me : )
 
 <p align="left">
 <a href="https://linkedin.com/in/aldo-matus117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo c. matus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@E-ChainChannel/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the estonian blockchain channel" height="30" width="40" /></a>
 </p>
 
 ---
